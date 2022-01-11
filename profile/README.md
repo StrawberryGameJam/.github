@@ -4,7 +4,7 @@
 
 Hello and Welcome to our github Repo! We are a group of friends who studied togheter at [UNICAMP](https://www.unicamp.br/unicamp/) and discovered (by accident) that making video games in Game Jams is actually pretty fun (and incredibly good for you mental health).
 
-We started as a mix of _Oioi_ (also known was the Illuminati of Computer Engineering UNICAMP) and some other associates and 👑 Queen [Ana](https://github.com/AnaClaraZoppiSerpa) (Dont ask how, the monarchy just exists here). While our objective is not to work on Game Development, we like having this clean, nice github organization and developing our ideas of games.
+We started as a mix of _Oioi_ (also known was the Illuminati of Computer Engineering in UNICAMP), ☝️ [Henrique Finger](https://github.com/fingerson) (the evil mastermind behind our begginings), and some other associates led by 👑 Queen [Ana](https://github.com/AnaClaraZoppiSerpa) (The responsible for 100% of the Game Jams we participated). While our objective is not to work on Game Development, we like having this clean, nice github organization and developing our ideas of games.
 
 If you'd like to join or help in a project, just give us a call. 
 
